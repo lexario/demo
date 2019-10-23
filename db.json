@@ -1,4 +1,5 @@
-
+{
+        "srTicket":
         {
             "srId": "2483689",
             "srService": "СЕРВИС КОРПОРАТИВНАЯ ЭЛЕКТРОННАЯ ПОЧТА",
@@ -6,3 +7,4 @@
             "srSolution": "Эл. почта мигрирована в О365, лицензия назначена.",
             "srITSMLink": "https://itsm.dtek.com/maximo/webclient/login/login.jsp?event=loadapp&value=viewsr&uniqueid=3256672"
         }
+}
