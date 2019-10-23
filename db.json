@@ -1,4 +1,4 @@
-[
+{
         {
             "srId": "2483689",
             "srService": "СЕРВИС КОРПОРАТИВНАЯ ЭЛЕКТРОННАЯ ПОЧТА",
@@ -27,4 +27,5 @@
             "srSolution": "Дан доступ к подписанию информационной справки при работе с филиалом 271 в ПП МЕДок",
             "srITSMLink": "https://itsm.dtek.com/maximo/webclient/login/login.jsp?event=loadapp&value=viewsr&uniqueid=3263544"
         }
-    ]
+ 
+}
