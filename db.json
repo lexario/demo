@@ -2,103 +2,153 @@
     "srTicket": [
         {
             "srId": 2493336,
-            "srStatus": "Отклонено"
+            "srStatus": "REJECTED",
+            "srSolution" : "",
+            "srRating" : 0
         },
         {
             "srId": 2453813,
-            "srStatus": "Решено"
+            "srStatus": "RESOLVED",
+            "srSolution" : "Выполнена настройка принтера",
+            "srRating" : 0
         },
         {
             "srId": 2425635,
-            "srStatus": "Решено"
+            "srStatus": "RESOLVED",
+            "srSolution" : "Сканирование настроено",
+            "srRating" : 0
         },
         {
             "srId": 2421095,
-            "srStatus": "Отклонено"
+            "srStatus": "RESOLVED",
+            "srSolution" : "Биллинг обновлен",
+            "srRating" : 0
         },
         {
             "srId": 2415067,
-            "srStatus": "Решено"
+            "srStatus": "RESOLVED",
+            "srSolution" : "Файл удален",
+            "srRating" : 0
         },
         {
             "srId": 2404718,
-            "srStatus": "Закрыто"
+            "srStatus": "CLOSED",
+            "srSolution" : "Почтовый ящик создан",
+            "srRating" : 3
         },
         {
             "srId": 2399101,
-            "srStatus": "Решено"
+            "srStatus": "RESOLVED",
+            "srSolution" : "Доступ предоставлен",
+            "srRating" : 0
         },
         {
             "srId": 2399100,
-            "srStatus": "Отклонено"
+            "srStatus": "RESOLVED",
+            "srSolution" : "",
+            "srRating" : 0
         },
         {
             "srId": 2395605,
-            "srStatus": "Закрыто"
+            "srStatus": "CLOSED",
+            "srSolution" : "Браузер обновлен",
+            "srRating" : 3
         },
         {
             "srId": 2392535,
-            "srStatus": "Отклонено"
+            "srStatus": "REJECTED",
+            "srSolution" : "",
+            "srRating" : 0
         },
         {
             "srId": 2375058,
-            "srStatus": "Отклонено"
+            "srStatus": "REJECTED",
+            "srSolution" : "",
+            "srRating" : 0
         },
         {
             "srId": 2365955,
-            "srStatus": "Отклонено"
+            "srStatus": "REJECTED",
+            "srSolution" : "",
+            "srRating" : 0
         },
         {
             "srId": 2336772,
-            "srStatus": "Отклонено"
+            "srStatus": "REJECTED",
+            "srSolution" : "",
+            "srRating" : 0
         },
         {
             "srId": 2278953,
-            "srStatus": "Решено"
+            "srStatus": "RESOLVED",
+            "srSolution" : "Антивирус переустановлен",
+            "srRating" : 0
         },
         {
             "srId": 2278952,
-            "srStatus": "Отклонено"
+            "srStatus": "REJECTED",
+            "srSolution" : "",
+            "srRating" : 0
         },
         {
             "srId": 2269140,
-            "srStatus": "Закрыто"
+            "srStatus": "CLOSED",
+            "srSolution" : "Проверка сертификата выполнена",
+            "srRating" : 4
         },
         {
             "srId": 2269136,
-            "srStatus": "Отклонено"
+            "srStatus": "REJECTED",
+            "srSolution" : "",
+            "srRating" : 0
         },
         {
             "srId": 2240233,
-            "srStatus": "Отозвано"
+            "srStatus": "REVOKED",
+            "srSolution" : "",
+            "srRating" : 0
         },
         {
             "srId": 2240169,
-            "srStatus": "Отклонено"
+            "srStatus": "REJECTED",
+            "srSolution" : "",
+            "srRating" : 0
         },
         {
             "srId": 2225566,
-            "srStatus": "Отклонено"
+            "srStatus": "REJECTED",
+            "srSolution" : "",
+            "srRating" : 0
         },
         {
             "srId": 2215977,
-            "srStatus": "Решено"
+            "srStatus": "RESOLVED",
+            "srSolution" : "Кабель переобжат",
+            "srRating" : 0
         },
         {
             "srId": 2206120,
-            "srStatus": "Решено"
+            "srStatus": "RESOLVED",
+            "srSolution" : "Линк настроен",
+            "srRating" : 0
         },
         {
             "srId": 2201605,
-            "srStatus": "Закрыто"
+            "srStatus": "CLOSED",
+            "srSolution" : "Шифрование отключено",
+            "srRating" : 3
         },
         {
             "srId": 2200706,
-            "srStatus": "Решено"
+            "srStatus": "RESOLVED",
+            "srSolution" : "Флешка предоставлена",
+            "srRating" : 0
         },
         {
             "srId": 2172097,
-            "srStatus": "Решено"
+            "srStatus": "RESOLVED",
+            "srSolution" : "Учетная запись отключена",
+            "srRating" : 0
         }
         
     ]
